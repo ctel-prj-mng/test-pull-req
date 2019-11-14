@@ -3,4 +3,4 @@
 
 Список соавторов
 1. @nzhukov
-@Sukhacheva
+2. @Sukhacheva
