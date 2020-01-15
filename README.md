@@ -4,4 +4,4 @@
 Список соавторов
 1. @nzhukov
 
-2. href="https://github.com/Serega89Kh">Храмов Сергей</a>
+2. <a href="https://github.com/Serega89Kh">Храмов Сергей</a>
