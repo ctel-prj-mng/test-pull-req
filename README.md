@@ -3,4 +3,5 @@
 
 Список соавторов
 1. @nzhukov
-Pull
+
+2. href="https://github.com/Serega89Kh">Храмов Сергей</a>
