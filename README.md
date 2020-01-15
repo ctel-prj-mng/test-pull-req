@@ -3,3 +3,4 @@
 
 Список соавторов
 1. @nzhukov и компания
+2. [MozartArthur](https://github.com/MozartArthur)
